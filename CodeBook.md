@@ -59,7 +59,7 @@ The component variables of the data set are below.
 	fbodybodygyromagmean	fbodybodygyromagstd	
 	fbodybodygyrojerkmagmean	fbodybodygyrojerkmagstd	
 
-69. testortrain: Whether the subject was originally allocated to the 'test' or 
+69 testortrain: Whether the subject was originally allocated to the 'test' or 
 	'training' data set.
 
 ================================================================================
